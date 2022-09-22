@@ -60,7 +60,11 @@ action="/submit-cat-photo" id=cat-photo-form>
     background-color: blue;
     color: #fff;
     padding: 20px;
-  }
+  }  .blue-box {
+    background-color: blue;
+    color: #fff;
+    padding: 20px;
+    margin: 20px;
    
   
 
