@@ -95,6 +95,8 @@ action="/submit-cat-photo" id=cat-photo-form>
         background-color: blue;
         color: #fff;
         margin:40px 20px 20px 40px;
+      }[type='checkbox'] {
+        margin: 10px 0px 15px 0px;
       }
    
   
