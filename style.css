@@ -117,6 +117,12 @@ action="/submit-cat-photo" id=cat-photo-form>
 
 <h1>Hello World</h1>
 </style>
+
+.pink-text {
+  color: pink;
+}
+</style>
+<h1 class="pink-text"Hello World!</h1>
    
   
 
