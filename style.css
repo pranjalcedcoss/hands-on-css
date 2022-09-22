@@ -32,4 +32,11 @@
 </style>
 
 
-<a href="#"><img class="smaller-image"; 
+<a href="#"><img class="smaller-image"; <style>
+
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+  }
+  </style>
