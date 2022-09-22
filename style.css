@@ -103,6 +103,9 @@ action="/submit-cat-photo" id=cat-photo-form>
         margin: 20px 40px 20px 40px;
     padding: 1.5em;
       }
+      body {
+        background-color: black;
+      }
    
   
 
