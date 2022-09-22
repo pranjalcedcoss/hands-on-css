@@ -290,7 +290,20 @@ color: orange;
       width: 53%;
       height: 45%;
       border-radius: 70% 70% 100% 100%;
-    }  
+    }
+    <style>
+    :root {
+      --red-color: red;
+    }
+    .red-box {
+      background: red;
+      background: var(--red-color);
+      height: 200px;
+      width:200px;
+    }
+  </style>
+  <div class="red-box"></div>
+    
    
   
 
