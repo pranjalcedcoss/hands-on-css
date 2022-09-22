@@ -40,7 +40,16 @@
     border-style: solid;
     border-radius:10px;
     border-radius: 50%;
-    
+    <style>
+    .silver-background {
+       background-color: silver;
+     }
+   </style>
+   
+   
+     <div class=
+     "silver-background"</div>
+   
   
 
   </style>
