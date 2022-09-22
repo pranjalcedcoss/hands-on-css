@@ -25,3 +25,11 @@
 </style>
 
 <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
+<style>
+.smaller-image {
+  width: 100px;
+}
+</style>
+
+
+<a href="#"><img class="smaller-image"; 
