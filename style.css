@@ -86,6 +86,12 @@ action="/submit-cat-photo" id=cat-photo-form>
         margin-bottom: 20px;
         margin-left: 40px;
       }
+      .blue-box {
+        background-color: blue;
+        color: #fff;
+        padding:40px 20px 20px 40px;
+      }
+      
    
   
 
