@@ -132,6 +132,13 @@ action="/submit-cat-photo" id=cat-photo-form>
 }
 </style>
 <h1 class=" blue-text pink-text" style="color:blue;">Hello World!</h1>
+}
+#orange-text {
+color: orange;
+}
+
+</style>
+<h1 id="orange-text" class="pink-text blue-text";>Hello World!</h1>
    
   
 
