@@ -328,7 +328,19 @@ color: orange;
     width: 53%;
     height: 45%;
     border-radius: 70% 70% 100% 100%;
-  }  
+  }
+  --penguin-skin: gray;
+    --penguin-belly: white;
+    --penguin-beak: orange;
+  }
+
+  body {
+    background: var(--penguin-belly, #c6faf1);
+  }
+
+  .penguin {
+    /* Only change code below this line */
+--penguin-belly: white;  
    
   
 
